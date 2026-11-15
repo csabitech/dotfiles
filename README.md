@@ -2,3 +2,15 @@
 
 # dotfiles
 Configuration files for linux applications
+
+# Contents
+- mpv media player config and inputs
+- rofi application launcher custom theme
+- bashrc mainly to add aliases to longer commands
+- mangohud config to cap frames per second
+- alacritty terminal emulator custom theme
+- starship custom theme that replaces the default prompt for the bash shell
+
+# Requirements
+- All of the listed software above
+- Nerdfonts from [the Nerd Fonts website](https://www.nerdfonts.com/)
